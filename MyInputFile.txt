@@ -1,0 +1,13 @@
+Welcome to Java program
+
+Nmae: Vyom
+
+Age:24
+
+Sex: Male
+
+Company: xyz
+
+Designation: Associate Software Engg
+
+Location: Bangalore
